@@ -17,32 +17,32 @@
     ls - list
     
     cp - copy
-      cp practice.py new.py
-      //复制第一项，并重命名为第二个
+          cp practice.py new.py
+          //复制第一项，并重命名为第二个
       
     mv - move
-      mv practice.py new.py
-      // 把第一个改名字为第二个
-      mv farewell.py ..
-      // 把它从文件里挪出上一层来
+          mv practice.py new.py
+          // 把第一个改名字为第二个
+          mv farewell.py ..
+          // 把它从文件里挪出上一层来
     
     rm - remove
-      rm new.py
-      // 删除了这个new文件
+          rm new.py
+          // 删除了这个new文件
     
     mkdir - make direcory
-      mkdir folder
-      // 用来建立文件夹!!
+          mkdir folder
+          // 用来建立文件夹!!
     
     cd - change directory
-      cd Desktop
-      // 去 Desktop 这个文件
-      cd ..
-      // 返回上层
+          cd Desktop
+          // 去 Desktop 这个文件
+          cd ..
+          // 返回上层
     
     rmdir - remove direcory
-      rmdir folder
-      // 删除文件夹
+          rmdir folder
+          // 删除文件夹
     
     clear 
   
